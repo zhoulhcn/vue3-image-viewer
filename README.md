@@ -12,10 +12,10 @@ import { Image } from 'vue3-image-viewer';
 
 ### 效果预览/Preview
 
-![图片列表](https://github.com/zhoulhcn/vue3-image-viewer/blob/docs/docs/15037371-4cf616068fe1198e.png?raw=true)
-![图片预览](https://github.com/zhoulhcn/vue3-image-viewer/blob/docs/docs/15037371-737fc352d5f16d14.png?raw=true)
-![绘图](https://github.com/zhoulhcn/vue3-image-viewer/blob/docs/docs/15037371-77c7ca4bd2dfc388.png?raw=true)
-![调整大小](https://github.com/zhoulhcn/vue3-image-viewer/blob/docs/docs/15037371-11e9889fd86bcb0d.png?raw=true)
+![图片列表](https://github.com/zhoulhcn/vue3-image-viewer/blob/static/docs/15037371-4cf616068fe1198e.png?raw=true)
+![图片预览](https://github.com/zhoulhcn/vue3-image-viewer/blob/static/docs/15037371-737fc352d5f16d14.png?raw=true)
+![绘图](https://github.com/zhoulhcn/vue3-image-viewer/blob/static/docs/15037371-77c7ca4bd2dfc388.png?raw=true)
+![调整大小](https://github.com/zhoulhcn/vue3-image-viewer/blob/static/docs/15037371-11e9889fd86bcb0d.png?raw=true)
 
 ### 使用示例/Example
 
