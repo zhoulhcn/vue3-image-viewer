@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "zlhiconfont"; /* Project id 3113478 */
+  src: url('iconfont.woff2?t=1679667015100') format('woff2'),
+       url('iconfont.woff?t=1679667015100') format('woff'),
+       url('iconfont.ttf?t=1679667015100') format('truetype');
+}
+
+.zlhiconfont {
+  font-family: "zlhiconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-v3iv-yidong:before {
+  content: "\e667";
+}
+
+.icon-v3iv-chongzhi:before {
+  content: "\e65d";
+}
+
+.icon-v3iv-error:before {
+  content: "\e7df";
+}
+
+.icon-v3iv-xiazai:before {
+  content: "\e823";
+}
+
+.icon-v3iv-guanbi:before {
+  content: "\eb76";
+}
+
+.icon-v3iv-left-arrow:before {
+  content: "\e608";
+}
+
+.icon-v3iv-right-arrow:before {
+  content: "\e609";
+}
+
+.icon-v3iv-jian:before {
+  content: "\e711";
+}
+
+.icon-v3iv-jia:before {
+  content: "\e6e5";
+}
+
+.icon-v3iv-zhixiang-you:before {
+  content: "\e72d";
+}
+
+.icon-v3iv-quanping:before {
+  content: "\e62f";
+}
+
+.icon-v3iv-fullfill:before {
+  content: "\e912";
+}
+
+.icon-v3iv-xuanzhuan:before {
+  content: "\e673";
+}
+
+.icon-v3iv-zhongzhi-circle:before {
+  content: "\e616";
+}
+
+.icon-v3iv-zhixiang-zuo:before {
+  content: "\e913";
+}
+
